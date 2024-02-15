@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "bun marp presentation.md",
+    "build": "bun marp --html presentation.md",
     "build:images": "bun run build --images png --imageScale 2",
     "build:pdf": "bun run build --pdf",
     "open": "open ./presentation.html",

@@ -10,48 +10,28 @@ paginate: true
 _class: title
 -->
 
-# Amazing Schüttflix Presentation
+# Bufferin
 
 ---
 
-## First slide
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); height: 100%;">
+<div>
 
-- Some lorem!
+## Driver App
 
-<!--
-Some speaker notes
--->
+- Contact support screen
+- Slide-up menus
 
----
+</div>
 
-## Include code
+<div style="border-radius: 20px; border: 2px solid black; margin-left: auto; margin-right: auto; max-width: 400px; width: 100%; margin-top: -4rem; height: 122%; overflow: hidden;">
+  <iframe src="https://transport.dev.schuett.tech/#/driver" style="border: none; height: 100%; width: 100%"></iframe>
+</div>
 
-Partial file
-
-```go
-@import(snippets/example.go)[5-10]
-```
-
-Or whole
-
-```ts
-@import(snippets/sum.ts)
-```
+</div>
 
 ---
 
-<!--
-_paginate: false
-_class: full
--->
-
-# Some important statement
-
-![bg](assets/confetti.jpeg)
-
----
-
-## Pro / Cons
-
-- 🎉 Magic, simply create cool presentations.
-- 👎 Everything else will now seem outdated.
+<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;">
+<iframe src="https://pr-366.d1xgmwc74o52yj.amplifyapp.com/#/transport-list/detail/43e624ea-eed3-4007-a25b-e9c9a5ceeb77" style="border: none; height: 100%; width: 100%"></iframe>
+</div>
