@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "bun marp presentation.md",
+    "build:images": "bun run build --images png --imageScale 2",
+    "build:pdf": "bun run build --pdf",
+    "open": "open ./presentation.html",
+    "serve": "bunx serve@latest . -p 80",
+    "watch": "bun run build -w"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "latest",
+    "@nicco.io/markdown-it-import": "latest"
+  }
+}
