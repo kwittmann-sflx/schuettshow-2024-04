@@ -33,5 +33,5 @@ _class: title
 ---
 
 <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;">
-<iframe src="https://pr-366.d1xgmwc74o52yj.amplifyapp.com/#/transport-list/detail/43e624ea-eed3-4007-a25b-e9c9a5ceeb77" style="border: none; height: 100%; width: 100%"></iframe>
+<iframe src="https://pr-366.d1xgmwc74o52yj.amplifyapp.com/#/transport-list/detail/035c3423-64f6-4236-9b3f-9440413ca202" style="border: none; height: 100%; width: 100%"></iframe>
 </div>
